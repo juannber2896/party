@@ -1,0 +1,27 @@
+.titulo1{
+    background-color: rgb(114, 114, 207);
+    font-size: 2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kolker Brush', cursive;
+}
+.titulo2{
+    font-family: 'Zilla Slab', serif;
+}
+.titulo3{
+    font-family: 'Public Sans', sans-serif;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: brown;
+    color: coral;
+}
+body{
+    background-image: url(http://3.bp.blogspot.com/-gqqZT6iBfb0/Tmd7esejKKI/AAAAAAAAMao/mI-_PRT_XKU/s1600/baile.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
