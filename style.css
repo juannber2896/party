@@ -20,8 +20,16 @@ button{
     background-color: brown;
     color: coral;
 }
-body{
+.body1{
     background-image: url(http://3.bp.blogspot.com/-gqqZT6iBfb0/Tmd7esejKKI/AAAAAAAAMao/mI-_PRT_XKU/s1600/baile.gif);
     background-repeat: no-repeat;
     background-position: right;
+}
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: green;
+    color: aliceblue;
 }
