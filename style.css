@@ -25,11 +25,33 @@ button{
     background-repeat: no-repeat;
     background-position: right;
 }
-table{
+.table {
     border-collapse: collapse;
 }
 
-th{
-    background-color: green;
+.table th{
+    background-color: rgb(20, 40, 20);
     color: aliceblue;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table td:hover{
+    background-color: brown;
+    color: azure;
+}
+.table tr{
+    background-color: rgb(166, 194, 180);
+    color: black;
+    font-family: 'Public Sans', sans-serif;
+
+}
+caption{
+    font-family: 'Kolker Brush', cursive;
+    font-size: 3rem;
+}
+.table th:hover{
+    background-color: rgb(193, 193, 168);
+    color: white;
 }
